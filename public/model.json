@@ -1,0 +1,21 @@
+
+{
+  "modelTopology": {
+    "node": [
+      {
+        "name": "PlaceholderNode",
+        "op": "Placeholder",
+        "attr": {
+          "dtype": { "type": "DT_FLOAT" },
+          "shape": { "shape": { "dim": [{ "size": "1" }, { "size": "224" }, { "size": "224" }, { "size": "3" }] } }
+        }
+      }
+    ]
+  },
+  "weightsManifest": [
+    {
+      "paths": ["./weights.bin"],
+      "weights": [{ "name": "PlaceholderWeight", "shape": [1, 1, 1, 1], "dtype": "float32" }]
+    }
+  ]
+}

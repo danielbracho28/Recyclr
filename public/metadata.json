@@ -1,0 +1,9 @@
+
+{
+  "version": "0.8.4-alpha2",
+  "modelName": "tm-my-image-model",
+  "labels": ["Plastic Bottles", "Cans", "Paper", "Glass Bottles", "Organic Waste", "Cardboard"],
+  "imageSize": 224,
+  "grayscale": false,
+  "flipHorizontal": false
+}

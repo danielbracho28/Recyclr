@@ -1,0 +1,7 @@
+{
+  "name": "Recyclr - Your Smart Recycling Guide",
+  "description": "An intelligent web application that uses image recognition to classify waste and provides detailed recycling guidance. Snap a photo of an item or upload an image to learn how to properly dispose of it, discover reuse ideas, and understand its environmental impact.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
